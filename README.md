@@ -5,7 +5,7 @@ Due to the vast availability of information, large amounts of music data can be 
 
 ## Dataset
 GTZAN Dataset: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification?select=Data 
-Contains 100 30-second audio samples for 10 different genres of music 
+  Contains 100 30-second audio samples for 10 different genres of music 
 
 ## Algorithms
 - CNN Model: 71% Accuracy
