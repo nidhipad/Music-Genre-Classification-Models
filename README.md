@@ -8,9 +8,9 @@ GTZAN Dataset: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-c
 Contains 100 30-second audio samples for 10 different genres of music 
 
 ## Algorithms
-CNN Model: 71% Accuracy
-RNN-LSTM Model: 71% Accuracy
-Simple DNN Model: 87% Accuracy
+- CNN Model: 71% Accuracy
+- RNN-LSTM Model: 71% Accuracy
+- Simple DNN Model: 87% Accuracy
 
 ## Lessons Learned
 - Learned how to leverage the Librosa package to visualize audio data (create spectrograms, wave plots, and chroma grams)
